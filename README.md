@@ -1,5 +1,7 @@
 # IoT RFID Architecture - Team Shield
 
+The link on VPS:http://157.173.101.159:9220/
+
 Efficient bridging of RFID hardware with a web dashboard using MQTT and WebSockets.
 
 ## Team Information
